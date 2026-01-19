@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+Whats-Behind-That-Door/UserSettings
+Whats-Behind-That-Door/Temp
+Whats-Behind-That-Door/Library
