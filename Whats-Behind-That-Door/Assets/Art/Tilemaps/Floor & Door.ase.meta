@@ -137,7 +137,7 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 96
+      width: 256
       height: 128
     spriteID: e4ee0b738326dc34bb0343a00dfb51f9
     spriteBone: []
@@ -150,13 +150,13 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 4}
   - name: Frame_1
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 1.3333334, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
       serializedVersion: 2
-      x: 108
+      x: 268
       y: 4
       width: 96
       height: 128
@@ -168,17 +168,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 108, y: 4}
+    uvTransform: {x: 268, y: 4}
   - name: Frame_2
     originalName: 
-    pivot: {x: 0.5, y: -0.14285715}
+    pivot: {x: 1.3333334, y: -0.14285715}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
       serializedVersion: 2
-      x: 4
-      y: 140
+      x: 372
+      y: 4
       width: 96
       height: 112
     spriteID: 5e999a23241136446824ce0ee66d9948
@@ -189,16 +189,16 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 140}
+    uvTransform: {x: 372, y: 4}
   - name: Frame_3
     originalName: 
-    pivot: {x: 0.5, y: -0.14285715}
+    pivot: {x: 1.3333334, y: -0.14285715}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
       serializedVersion: 2
-      x: 108
+      x: 268
       y: 140
       width: 96
       height: 112
@@ -210,7 +210,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 108, y: 140}
+    uvTransform: {x: 268, y: 140}
   spriteSheetImportData: []
   tileSetImportData: []
   asepriteLayers:
@@ -232,7 +232,7 @@ ScriptedImporter:
       cellRect:
         x: 0
         y: 0
-        width: 96
+        width: 256
         height: 128
       spriteId: e4ee0b738326dc34bb0343a00dfb51f9
     - name: Frame_1
@@ -271,5 +271,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 96, y: 128}
-  previousTextureSize: {x: 256, y: 256}
+  canvasSize: {x: 256, y: 128}
+  previousTextureSize: {x: 512, y: 256}
