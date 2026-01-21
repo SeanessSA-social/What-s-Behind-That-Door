@@ -728,6 +728,14 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Untagged
       objectReference: {fileID: 0}
+    - target: {fileID: 1160356261127867848, guid: 464fd84c158dfa440a2ae0d90fe724e7, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: e8474a4c051cf9441b189258ecbf2593, type: 2}
+    - target: {fileID: 3626916397498700004, guid: 464fd84c158dfa440a2ae0d90fe724e7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 4518225611054890064, guid: 8fa8d85c56365eb4686a86874a21aaa2, type: 3}
     - target: {fileID: 3626916397498700004, guid: 464fd84c158dfa440a2ae0d90fe724e7, type: 3}
       propertyPath: m_SortingOrder
       value: 3
