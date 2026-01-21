@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Door
   - PlayerChild
+  - Dead
   layers:
   - Default
   - TransparentFX
