@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 401d77f7d46e5e447a11db0c05d5115a
+guid: e2cbbccf39a93f7409d71f3686a94fa0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8553596595128423742
-    second: Torch_0
-  - first:
-      213: 330400763883709057
-    second: Torch_1
-  - first:
-      213: 6950709768184568528
-    second: Torch_2
+      213: -2869115396899081085
+    second: Doors_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Torch_0
+      name: Doors_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 0
-        width: 12
-        height: 16
+        width: 192
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,52 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2ca216337358b4980800000000000000
-      internalID: -8553596595128423742
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Torch_1
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 0
-        width: 13
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1826ec48eb1d59400800000000000000
-      internalID: 330400763883709057
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Torch_2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0da9a7d25b1e57060800000000000000
-      internalID: 6950709768184568528
+      spriteID: 384f93c6fbade28d0800000000000000
+      internalID: -2869115396899081085
       vertices: []
       indices: 
       edges: []
@@ -185,9 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Torch_0: -8553596595128423742
-      Torch_1: 330400763883709057
-      Torch_2: 6950709768184568528
+      Doors_0: -2869115396899081085
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
